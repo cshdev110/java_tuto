@@ -5,7 +5,7 @@ import csh.enumeration.Days;
 
 /**
  * @author cshdev110
- * @date 2019/06/23 16:00
+ * @date 2023/06/23 16:00
  * @description Example Enum
  */
 public final class App {
