@@ -1,8 +1,8 @@
 package csh.objs;
 
 /**
- * author: cshdev110
- * version: 0.0.1
+ * @author: cshdev110
+ * @version: 0.0.1
  */
 
 public class Employee {

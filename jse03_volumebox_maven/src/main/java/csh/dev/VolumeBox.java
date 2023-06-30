@@ -6,7 +6,6 @@ package csh.dev;
  * 
  * This class is a simple class to calculate the volume of a box.
  * 
- * @version 1.0 2019-03-12
  * @since 1.0
  * 
  * @auther cshdev110

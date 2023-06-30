@@ -2,7 +2,6 @@ package csh.enumeration;
 
 /**
  * @author cshdev110
- * @date 2023/06/16
  * @verison 1.0
  */
 

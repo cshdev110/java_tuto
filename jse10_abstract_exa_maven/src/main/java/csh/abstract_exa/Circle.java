@@ -1,8 +1,8 @@
 package csh.abstract_exa;
 
 /**
- * author: cshdev110
- * version: 0.0.1
+ * @author: cshdev110
+ * @version: 0.0.1
  */
 public class Circle extends GeometricShape{
     public Circle(String shapeType) {
