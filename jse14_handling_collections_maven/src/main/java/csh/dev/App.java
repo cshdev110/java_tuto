@@ -13,6 +13,7 @@ import java.util.Set;
  * @version 0.0.1
  */
 public final class App {
+    @SuppressWarnings({"rawtypes", "unchecked"})
     public static void main(String[] args) {
         System.out.println("List without specifying type parameter");
         List list1 = new ArrayList();
@@ -77,7 +78,7 @@ public final class App {
 
     private static void printOut(Collection<?> collection) {
         for (Object o : collection) {
-            System.out.println("Data: " + o + " type: " + o.getClass().getName());
+            System.out.println("Data: " + o + " type: " + o.getClass().getSimpleName());
         }
         System.out.println("--------------------");
     }
